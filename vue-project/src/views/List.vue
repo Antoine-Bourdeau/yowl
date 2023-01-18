@@ -27,6 +27,11 @@ export default {
           id: 2,
           title: "twitter",
           content: "C'est Elon Musk qui l'a racheté ",
+        },
+        {
+          id: 3,
+          title: "Google",
+          content: "C'est trop bien google ",
         }
       ],
     };
